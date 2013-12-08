@@ -5,6 +5,8 @@ Description
 ------
 Trace Retweets.
 
+![Example](https://raw.github.com/Licht-T/RTTracer/master/sample.png "Example")
+
 Requirement
 ------
 * [GraphViz-C-Sharp-Wrapper](https://github.com/JamieDixon/GraphViz-C-Sharp-Wrapper)
